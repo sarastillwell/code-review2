@@ -12,3 +12,10 @@
   padding: 8px;
   height: 715px;
 }
+
+.pinkbox {
+  width: 830px;
+  background-color: pink;
+  padding: 1px;
+  height: 40px;
+}
