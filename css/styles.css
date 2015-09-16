@@ -19,3 +19,8 @@
   padding: 1px;
   height: 40px;
 }
+
+.headerbox {
+  width: 830px;
+  background-color: red
+}
