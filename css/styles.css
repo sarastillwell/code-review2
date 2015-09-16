@@ -1,26 +1,27 @@
 .column1 {
   width: 500px;
   float: left;
-  background-color: blue;
+  background-color: #96E896;
   padding: 8px;
 }
 
 .column2 {
   width: 300px;
   float: left;
-  background-color: green;
+  background-color: #CC99FF;
   padding: 8px;
   height: 715px;
 }
 
 .pinkbox {
   width: 830px;
-  background-color: pink;
+  background-color: #FF91B5;
   padding: 1px;
   height: 40px;
 }
 
 .headerbox {
   width: 830px;
-  background-color: red
+  background-color: #E9E9F1;
+  padding: 1px;
 }
